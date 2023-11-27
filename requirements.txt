@@ -1,3 +1,7 @@
-altair
-pandas
-streamlit
+youtube-transcript-api
+sentencepiece
+nltk
+numpy
+scikit-learn
+transformers
+torch
